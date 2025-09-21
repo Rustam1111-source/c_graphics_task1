@@ -1,4 +1,4 @@
-# c_graphics_task1
+# mirzaev_rm
 
 1. create an empty public github repo 
 2. copy this repo to your repo(all except .git/)
